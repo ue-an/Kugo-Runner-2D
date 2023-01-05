@@ -1,0 +1,5 @@
+C:/_uei/_Projects/Game[[:space:]]Development/UNITY[[:space:]]Proj/Running/Library filter=lfs diff=lfs merge=lfs -text
+C:/_uei/_Projects/Game filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+/Library filter=lfs diff=lfs merge=lfs -text
+/Library filter=lfs diff=lfs merge=lfs -text

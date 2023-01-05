@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: 2f444c154f1851544990eb882b9bbada
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameo-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 279
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17838b7d269c5b94db00d6d3f2797c68
+      internalID: 746877241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 279
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e7bf189b8cff2409c201c40d54a771
+      internalID: -886435583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 279
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ca41ec9f645334ab913d7117e2a4ad
+      internalID: -632134078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 279
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998dfb34c727d94fbf525675ede7fa5
+      internalID: -936091665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 191
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e923098109c04a975c477c33b1b60
+      internalID: 1032060513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 191
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c717dbbb6409080458a22e12991dd544
+      internalID: -1296480958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 190
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19960728be1dd4e44a7f2fb7011605f8
+      internalID: 424024386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 191
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536248b2d5548cb44b8b9b0638cc9ffa
+      internalID: 416025259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caa4ee5c9cac5b4c846b26ecae8f421
+      internalID: 1655271495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 112
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0bb4f334d5024f8b0dfef535a0528
+      internalID: 1108542549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 112
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de86312682e539447ac418e696db3ed6
+      internalID: -1787849493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 112
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da7b075592bb414ca9bb7e64b377a63
+      internalID: -1032532232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 112
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75077a1617281ee4e9b495e1721d8651
+      internalID: -1062753285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb68e0616355884f88ba22cece0d035
+      internalID: 1306321444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 112
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b21f06ed1b00640b204dcc1a55bbcc
+      internalID: 1295455996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 112
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23df400888c079146be58f5ab30a98f3
+      internalID: -503977593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 112
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5c4fd740999934caec05977f5477dc
+      internalID: -1214198167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 113
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4162a07ef15bad4ea3267ccd2d872f5
+      internalID: 1119708695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 112
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1493e0e99a3b63408231f38d48938ad
+      internalID: -1868534021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 112
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2256d4c6db3a5a4f8d49a66c4af8db5
+      internalID: -1301959520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 112
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c593cd80cc9a4aa4ee95d8ce2e249
+      internalID: 893994549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 113
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e705264fe05fc314ab88d6cfe253c79a
+      internalID: -1021286556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c22d4373bb7946bab5f67e57c5ecd
+      internalID: 983498662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 71
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613967a9e6b38f47a27c70a0b649b0d
+      internalID: 252929724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 71
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef228ca770560147bb7737136773b60
+      internalID: -502348726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 72
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496a47bc475728c48a3bdaf0f3eb2938
+      internalID: -452151673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069fcc87e95edce418209e73fcc2e42a
+      internalID: 386089972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 72
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03dbec80aac6634ba7b8297ce871109
+      internalID: -366489942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 71
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3944f176f7f95146a564952a4d81704
+      internalID: 1225106557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 71
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e2e1451d2fb9e47a1ede1dc12f9580
+      internalID: -716480123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 71
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495370d1cf102d14ab7e3623681304ee
+      internalID: 2072093884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 71
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a1b167e944e2046814d65e5a6b263d
+      internalID: -641694220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 71
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7c4ff6e142c64bb8d65561f903975
+      internalID: 1817713865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 71
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8631a449f4ab90f49b08d86d7a39222f
+      internalID: 1858803805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 30
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a950f8ea58fb74987f6a819b1f32a3
+      internalID: 1786341766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 30
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68ff42d05c397d49afa276209c78dc7
+      internalID: -195864970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 30
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46df3c41e79d1414f9951be78325fe0d
+      internalID: -1435206047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 30
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e969bebb8b3998147b9058c4656aea88
+      internalID: 889805579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 30
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f542df9be0fe6244d9fd2afb61dd988d
+      internalID: -863624126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 30
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19daeb38846ec54c9ec6bc96a3de0bb
+      internalID: 1420809517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 30
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d508cba57e6386045a63ee0d50d269fe
+      internalID: -1776927486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 30
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c18d47bcbc7054aba5acadfcaeaa42
+      internalID: 1637201420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 30
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31a99124012a14f8e0eadfacd2b2d5
+      internalID: 1766254380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameo-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10590f0e28b154a42b5ca79d3e81d8e4
+      internalID: 2015244894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gameo-removebg-preview_31: -641694220
+      gameo-removebg-preview_11: -1032532232
+      gameo-removebg-preview_21: -1021286556
+      gameo-removebg-preview_42: 1766254380
+      gameo-removebg-preview_4: 1032060513
+      gameo-removebg-preview_14: 1295455996
+      gameo-removebg-preview_32: 1817713865
+      gameo-removebg-preview_5: -1296480958
+      gameo-removebg-preview_39: 1420809517
+      gameo-removebg-preview_33: 1858803805
+      gameo-removebg-preview_35: -195864970
+      gameo-removebg-preview_13: 1306321444
+      gameo-removebg-preview_10: -1787849493
+      gameo-removebg-preview_17: 1119708695
+      gameo-removebg-preview_16: -1214198167
+      gameo-removebg-preview_27: -366489942
+      gameo-removebg-preview_0: 746877241
+      gameo-removebg-preview_7: 416025259
+      gameo-removebg-preview_15: -503977593
+      gameo-removebg-preview_36: -1435206047
+      gameo-removebg-preview_1: -886435583
+      gameo-removebg-preview_38: -863624126
+      gameo-removebg-preview_37: 889805579
+      gameo-removebg-preview_6: 424024386
+      gameo-removebg-preview_26: 386089972
+      gameo-removebg-preview_19: -1301959520
+      gameo-removebg-preview_23: 252929724
+      gameo-removebg-preview_12: -1062753285
+      gameo-removebg-preview_25: -452151673
+      gameo-removebg-preview_3: -936091665
+      gameo-removebg-preview_28: 1225106557
+      gameo-removebg-preview_22: 983498662
+      gameo-removebg-preview_8: 1655271495
+      gameo-removebg-preview_18: -1868534021
+      gameo-removebg-preview_34: 1786341766
+      gameo-removebg-preview_24: -502348726
+      gameo-removebg-preview_20: 893994549
+      gameo-removebg-preview_43: 2015244894
+      gameo-removebg-preview_9: 1108542549
+      gameo-removebg-preview_29: -716480123
+      gameo-removebg-preview_41: 1637201420
+      gameo-removebg-preview_30: 2072093884
+      gameo-removebg-preview_2: -632134078
+      gameo-removebg-preview_40: -1776927486
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
