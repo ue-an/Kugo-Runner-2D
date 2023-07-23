@@ -1,6 +1,6 @@
 # Unity-Runner2D
 A simple 2D endless runner made with unity.  
-Several files were not uploaded due to large file size and copyright of developers for some assets used.  
+Some files were omitted due to large file size and copyright of developers for some assets used.  
 Screenshots:
 ![alt text](https://github.com/ue-an/Unity-Runner2D/blob/master/screenshots/runner_code.png?raw=true)
 ![alt text](https://github.com/ue-an/Unity-Runner2D/blob/master/screenshots/runner_home.png?raw=true)
