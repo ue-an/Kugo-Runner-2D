@@ -6,9 +6,8 @@ Screenshots:
 ![alt text](https://github.com/ue-an/Unity-Runner2D/blob/master/screenshots/runner_code.png?raw=true)
 <br>  
 Home Screen  
-
 ![alt text](https://github.com/ue-an/Unity-Runner2D/blob/master/screenshots/runner_home.png?raw=true)
-Gameplay  
+Gameplay
 ![alt text](https://github.com/ue-an/Unity-Runner2D/blob/master/screenshots/runner_play.png?raw=true)
 <br>  
 Shop
